@@ -1,0 +1,14 @@
+layout_spectrum: 0.483871
+typography_spectrum: 0.7401434
+color:
+  saturation: 0.8767357
+  lightness: 0.8833456
+  brandStrength: 0.4653111
+  rhythmicContrast: 0.2071167
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: andrewnip
